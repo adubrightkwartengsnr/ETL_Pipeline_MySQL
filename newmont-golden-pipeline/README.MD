@@ -24,7 +24,7 @@ Before running the project, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/AgereJoseph1/Group_one_Assignment_4.git
+    git clone https://github.com/adubrightkwartengsnr/ETL_Pipeline_MySQL.git 
     ```
 
 2. Install the required Python dependencies:
